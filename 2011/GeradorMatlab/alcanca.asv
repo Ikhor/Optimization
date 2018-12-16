@@ -1,0 +1,19 @@
+function [sn] = alcanca(o, d)
+
+global A
+
+n = size(A,1);
+sn = 0;
+
+Fila = [o];
+while (~isempty(Pilha))
+    x = Fila(1); Pilha(1)=[];
+    if (x == d), sn = 1; break, end
+    for j=(x+1):n
+        if (A(x,j)==1)
+            Pilha = [Pilha ; j];
+        end
+    end
+end
+
+end

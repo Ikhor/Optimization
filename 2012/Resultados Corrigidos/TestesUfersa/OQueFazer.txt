@@ -1,0 +1,11 @@
+- criar BATS para rodar Liu2 
+
+- criar BATS para rodar GTS 
+
+- criar BATS para rodar GRASP (iters: 50, 100; alfa: 0.1, 0.2, ..., 0.9)
+
+
+--FELIPE---
+Large OK falta SMALL
+
+

@@ -1,0 +1,36 @@
+O merge está com um problema na função de remontagem da cadeia(trecho abaixo)
+
+while(anterior[indice] != 'c'){
+	if(valorA[indice] < valorB[indice]){
+		Inverte->push_front((*A));
+		A--;
+		indice = indice - lista2->size()
+	}else{
+		Inverte->push_front((*B));
+		B--;
+		indice -= 1;
+	}
+}
+O problema é se ambos os valores derem iguais a montagem da cadeia pode acabar por não
+respeitar a ordem dos elementos gerando uma extensão invalida
+
+Este erro acima foi encontrado no arquivo de testes
+rp_n65_p0.20_s2.txt
+
+Status - Corrigido
+
+
+
+
+Erro na função para capturar Cadeias
+
+Status - Corrigido
+
+Erro de colocação no vetor de capturas induzindo o
+algoritmo de Merge errar visto que acaba gerando uma anti-cadeia.
+
+Ciclo DBL_MAX 
+Status Corrigido
+Usar como definição de custo para intransitivos como dbl_max e adicionando o custo do arco
+fazia o valor resetar já que é ciclico portanto foi alterado par INT_MAX e ajustado na função de obterCustoVertice
+para na checagem de downset verificar se é menor que INT_MAX-1

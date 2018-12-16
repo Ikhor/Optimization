@@ -1,0 +1,12 @@
+variações
+
+p = 0.2
+Nome			Resultado antigo    Resultado Novo
+rp_n30_p0.20_s2.txt 		2734		 3273
+rp_n40_p0.20_s3.txt		8799		 7613
+rp_n40_p0.20_s1.txt		6436		 7695
+rp_n50_p0.20_s1.txt	       10025		11226
+rp_n55_p0.20_s1.txt	       15862		15729
+rp_n65_p0.20_s2.txt	       25795		26098
+
+p= 0.4

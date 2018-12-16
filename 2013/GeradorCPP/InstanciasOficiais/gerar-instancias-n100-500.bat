@@ -1,0 +1,164 @@
+REM Gerador-MCLE 100 0.5 01
+REM Gerador-MCLE 100 0.5 02
+REM Gerador-MCLE 100 0.5 03
+REM Gerador-MCLE 100 0.5 04
+REM Gerador-MCLE 100 0.5 05
+REM Gerador-MCLE 100 0.5 06
+REM Gerador-MCLE 100 0.5 07
+REM Gerador-MCLE 100 0.5 08
+REM Gerador-MCLE 100 0.5 09
+REM Gerador-MCLE 100 0.5 10
+
+REM Gerador-MCLE 100 2.0 11
+REM Gerador-MCLE 100 2.0 12
+REM Gerador-MCLE 100 2.0 13
+REM Gerador-MCLE 100 2.0 14
+REM Gerador-MCLE 100 2.0 15
+REM Gerador-MCLE 100 2.0 16
+REM Gerador-MCLE 100 2.0 17
+REM Gerador-MCLE 100 2.0 18
+REM Gerador-MCLE 100 2.0 19
+REM Gerador-MCLE 100 2.0 20
+
+REM Gerador-MCLE 100 5.0 21
+REM Gerador-MCLE 100 5.0 22
+REM Gerador-MCLE 100 5.0 23
+REM Gerador-MCLE 100 5.0 24
+REM Gerador-MCLE 100 5.0 25
+REM Gerador-MCLE 100 5.0 26
+REM Gerador-MCLE 100 5.0 27
+REM Gerador-MCLE 100 5.0 28
+REM Gerador-MCLE 100 5.0 29
+REM Gerador-MCLE 100 5.0 30
+
+REM Gerador-MCLE 200 0.5 01
+REM Gerador-MCLE 200 0.5 02
+REM Gerador-MCLE 200 0.5 03
+REM Gerador-MCLE 200 0.5 04
+REM Gerador-MCLE 200 0.5 05
+REM Gerador-MCLE 200 0.5 06
+REM Gerador-MCLE 200 0.5 07
+REM Gerador-MCLE 200 0.5 08
+REM Gerador-MCLE 200 0.5 09
+REM Gerador-MCLE 200 0.5 10
+
+REM Gerador-MCLE 200 2.0 11
+REM Gerador-MCLE 200 2.0 12
+REM Gerador-MCLE 200 2.0 13
+REM Gerador-MCLE 200 2.0 14
+REM Gerador-MCLE 200 2.0 15
+REM Gerador-MCLE 200 2.0 16
+REM Gerador-MCLE 200 2.0 17
+REM Gerador-MCLE 200 2.0 18
+REM Gerador-MCLE 200 2.0 19
+REM Gerador-MCLE 200 2.0 20
+
+REM Gerador-MCLE 200 5.0 21
+REM Gerador-MCLE 200 5.0 22
+REM Gerador-MCLE 200 5.0 23
+REM Gerador-MCLE 200 5.0 24
+REM Gerador-MCLE 200 5.0 25
+REM Gerador-MCLE 200 5.0 26
+REM Gerador-MCLE 200 5.0 27
+REM Gerador-MCLE 200 5.0 28
+REM Gerador-MCLE 200 5.0 29
+REM Gerador-MCLE 200 5.0 30
+
+REM Gerador-MCLE 300 0.5 01
+REM Gerador-MCLE 300 0.5 02
+REM Gerador-MCLE 300 0.5 03
+REM Gerador-MCLE 300 0.5 04
+REM Gerador-MCLE 300 0.5 05
+REM Gerador-MCLE 300 0.5 06
+REM Gerador-MCLE 300 0.5 07
+REM Gerador-MCLE 300 0.5 08
+REM Gerador-MCLE 300 0.5 09
+REM Gerador-MCLE 300 0.5 10
+
+REM Gerador-MCLE 300 2.0 11
+REM Gerador-MCLE 300 2.0 12
+REM Gerador-MCLE 300 2.0 13
+REM Gerador-MCLE 300 2.0 14
+REM Gerador-MCLE 300 2.0 15
+REM Gerador-MCLE 300 2.0 16
+REM Gerador-MCLE 300 2.0 17
+REM Gerador-MCLE 300 2.0 18
+REM Gerador-MCLE 300 2.0 19
+REM Gerador-MCLE 300 2.0 20
+
+REM Gerador-MCLE 300 5.0 21
+REM Gerador-MCLE 300 5.0 22
+REM Gerador-MCLE 300 5.0 23
+REM Gerador-MCLE 300 5.0 24
+REM Gerador-MCLE 300 5.0 25
+REM Gerador-MCLE 300 5.0 26
+REM Gerador-MCLE 300 5.0 27
+REM Gerador-MCLE 300 5.0 28
+REM Gerador-MCLE 300 5.0 29
+REM Gerador-MCLE 300 5.0 30
+
+Gerador-MCLE 400 0.5 01
+Gerador-MCLE 400 0.5 02
+Gerador-MCLE 400 0.5 03
+Gerador-MCLE 400 0.5 04
+Gerador-MCLE 400 0.5 05
+Gerador-MCLE 400 0.5 06
+Gerador-MCLE 400 0.5 07
+Gerador-MCLE 400 0.5 08
+Gerador-MCLE 400 0.5 09
+Gerador-MCLE 400 0.5 10
+
+Gerador-MCLE 400 2.0 11
+Gerador-MCLE 400 2.0 12
+Gerador-MCLE 400 2.0 13
+Gerador-MCLE 400 2.0 14
+Gerador-MCLE 400 2.0 15
+Gerador-MCLE 400 2.0 16
+Gerador-MCLE 400 2.0 17
+Gerador-MCLE 400 2.0 18
+Gerador-MCLE 400 2.0 19
+Gerador-MCLE 400 2.0 20
+
+Gerador-MCLE 400 5.0 21
+Gerador-MCLE 400 5.0 22
+Gerador-MCLE 400 5.0 23
+Gerador-MCLE 400 5.0 24
+Gerador-MCLE 400 5.0 25
+Gerador-MCLE 400 5.0 26
+Gerador-MCLE 400 5.0 27
+Gerador-MCLE 400 5.0 28
+Gerador-MCLE 400 5.0 29
+Gerador-MCLE 400 5.0 30
+
+Gerador-MCLE 500 0.5 01
+Gerador-MCLE 500 0.5 02
+Gerador-MCLE 500 0.5 03
+Gerador-MCLE 500 0.5 04
+Gerador-MCLE 500 0.5 05
+Gerador-MCLE 500 0.5 06
+Gerador-MCLE 500 0.5 07
+Gerador-MCLE 500 0.5 08
+Gerador-MCLE 500 0.5 09
+Gerador-MCLE 500 0.5 10
+
+Gerador-MCLE 500 2.0 11
+Gerador-MCLE 500 2.0 12
+Gerador-MCLE 500 2.0 13
+Gerador-MCLE 500 2.0 14
+Gerador-MCLE 500 2.0 15
+Gerador-MCLE 500 2.0 16
+Gerador-MCLE 500 2.0 17
+Gerador-MCLE 500 2.0 18
+Gerador-MCLE 500 2.0 19
+Gerador-MCLE 500 2.0 20
+
+Gerador-MCLE 500 5.0 21
+Gerador-MCLE 500 5.0 22
+Gerador-MCLE 500 5.0 23
+Gerador-MCLE 500 5.0 24
+Gerador-MCLE 500 5.0 25
+Gerador-MCLE 500 5.0 26
+Gerador-MCLE 500 5.0 27
+Gerador-MCLE 500 5.0 28
+Gerador-MCLE 500 5.0 29
+Gerador-MCLE 500 5.0 30

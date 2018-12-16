@@ -1,0 +1,38 @@
+22/01/13
+Versão de teste do MergePoset PD finalizada
+03/12/12
+Adicionado MergePoset Versão 1 
+28/11/12
+Adicionada Pasta Liu2
+Adicionado codigo de Liu2
+23/11/12
+Alterador arquivo Software Release Modelo Ge-Code estava com dados antigos
+14/11/12
+Otimizado o codigo para copia dos transitivos -- Nova Versão Wu2V15
+Adicionado Modelo Ge-Code de Software Release
+Corrigido Bug de Liu2 (Relações Transitivas) -- Nova Versão Wu2V14
+Adicionado Testes com GRASP + BL para instancias grandes
+Adicionada Versão de Ordenação Topologica GRASP + BL
+OBS: 
+Foi detectado um erro durante testes para isso foi dado
+um incremento a variavel de heap dos melhores para garantir
+que haverá pelo menos um elemento para comparar.
+OBS2:
+Durante os testes ou resultados tiveram um melhora muito significativa
+Alcançando muitas vezes o otimos(N10,N15) que dá para chegar manualmente
+13/11/12
+Adicionado arquivo TesteHeap
+-- testado isolado com sucesso *falta integração com o codigo de GTSrandom*----
+12/11/12
+Inicio dos testes
+Adicionado gtsRandomBL
+Versão da Ord.Topo aleatoria com busca local
+V1 para busca local com GTS Random
+11/11/12 
+Ideia para implementação da busca local
+previsão de entrega 14/11/12
+Resultado dos teste(Discutir com Tiberius)
+Adicionado V2 GtsRandom - teste da função de Rand(seed gerada apenas uma vez)
+Adicionada Wu&Ord V13 - Razão de modificão: Nova Step 1&2 para Wu2
+(ainda falta corrigir os transtivos) 
+Adicionada Pasta de Ordenação topologica aleatoria(Versão 1 em testes).

@@ -1,0 +1,37 @@
+model ConjInd
+uses "mmxprs";
+
+parameters
+   N = 500;
+end-parameters
+
+declarations
+
+	A : array (1..N, 1..N) of integer
+
+	x : array (1..N) of mpvar
+
+end-declarations
+
+DataFile := 'dados.dat'
+initializations from DataFile
+	A
+end-initializations
+
+forall (i in 1..N, j in 1..N | A(i,j)=1) do
+	x(i) + x(j) <= 1
+end-do
+
+
+forall(i in 1..N) x(i) is_binary
+
+Obj := sum(i in 1..N) x(i)
+
+maximize(Obj)
+
+!writeln('tamanho da maior anti-cadeia: ', getobjval)
+!forall(i in 1..N | getsol(x(i)) > 0)
+!	writeln(i-1)
+writeln(getobjval)
+
+end-model
